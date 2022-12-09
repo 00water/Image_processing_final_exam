@@ -74,3 +74,6 @@ for cnt in contours:
 cv.imshow('result', img_color)
 cv.waitKey(0)
 ~~~
+실행화면
+---
+![스크린샷 2022-12-09 오후 11 39 19](https://user-images.githubusercontent.com/105781767/206729380-8d9b44ac-2a8e-466e-86db-0a8f09c9752f.png)
